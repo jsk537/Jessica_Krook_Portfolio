@@ -10,6 +10,8 @@ The files labelled 2MARKET are related to a project where exploratory data analy
 
 2MARKET_Report is the final report including an appendix where you can find SQL code and Excel Analysis.
 
+*NOTE: This is the only non-proprietary example of my own SQL code, this is basic SQL and I am able to create complex queries*
+
 2MARKET_Tableau_Dashboard contains a link to a Public Dashboard I created using the supermarket's data.
 
 ## BOOKING_PLATFORM_BUSINESS_CASE
