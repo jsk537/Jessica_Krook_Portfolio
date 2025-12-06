@@ -10,7 +10,7 @@ The files labelled 2MARKET are related to a project where exploratory data analy
 
 2MARKET_Report is the final report including an appendix where you can find SQL code and Excel Analysis.
 
-*NOTE: This is the only non-proprietary example of my own SQL code, this is basic SQL and I am able to create complex queries*
+*NOTE: this is basic SQL and I am able to create complex queries*
 
 2MARKET_Tableau_Dashboard contains a link to a Public Dashboard I created using the supermarket's data.
 
@@ -27,6 +27,12 @@ The files labelled CALIFORNIA_HOUSING is a data science project where I took a d
 CALIFORNIA_HOUSING_Supervised_Machine_Learning _Regression is the R code used to create the model.
 
 CALIFORNIA_HOUSING_Supervised_Machine_Learning _Regression_Report is the final report including the visualisations made in R that are not visible in the R file.
+
+## ERD_ANALYSIS 
+
+The file labelled ERD_ANALYSIS are related to a project where I analysed a basic ERD relational database.  
+
+ERD_ANALYSIS is the final report including MY SQL code and my reasoning for the way I constructed the queries.
 
 ## GAMING_LOYALTY_ANALYSIS
 
