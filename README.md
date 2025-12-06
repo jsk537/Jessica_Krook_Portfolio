@@ -32,7 +32,7 @@ CALIFORNIA_HOUSING_Supervised_Machine_Learning _Regression_Report is the final r
 
 The file labelled ERD_ANALYSIS are related to a project where I analysed a basic ERD relational database.  
 
-ERD_ANALYSIS is the final report including MY SQL code and my reasoning for the way I constructed the queries.
+ERD_ANALYSIS_SQL_and_Report is the final report including MY SQL code and my reasoning for the way I constructed the queries.
 
 ## GAMING_LOYALTY_ANALYSIS
 
