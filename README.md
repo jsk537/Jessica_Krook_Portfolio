@@ -60,6 +60,10 @@ This is a Python file where I analysed the staffing requirements of the NHS. It 
 
 This is a project where I use advanced machine learning techniques in Python on a housing dataset to predict the price and evaluate which machine learning model is the most accurate.
 
+## TEACHER_CERTIFICATION_IMPACT_ANALYSIS.ipynb
+
+This Python project analyzes the impact of two major certification policy changes implemented by a state education board in 1990. The notebook includes data cleaning, feature engineering, exploratory analysis, and visualizations to compare cohorts before and after the policy shift.
+
 ## TRANSPORTATION_COMPANY_BUSINESS_CASE
 
 This file is the presentation for a project I did where ì evaluate the most profitable entities and routes of a transportation company.
